@@ -14,3 +14,7 @@ Where:
 # Dependencies:
 - Microsoft SDKs X86
 - Microsoft SDKs (ClickOnce)
+
+
+# License
+MIT
